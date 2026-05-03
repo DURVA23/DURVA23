@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Durva 👋<br> I'm a Computer Science student. <br>
 Curious about how systems work behind the scenes.<br>
-I enjoy building and breaking things to understand them.<br>
+I enjoy building and breaking things to understand them.
 <br>🔭 I’m currently exploring Cybersecurity ,Backend and ai engineering <br>🌱 I’m currently learning UI/UX design, cybersecurity, and data engineering<br>💬 Ask me about Python, JavaScript basics, beginner projects, or getting started with open source
 
 # 💻 Tech Stack:
